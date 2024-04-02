@@ -1,8 +1,6 @@
+#### Name : BASKAR  J
+#### Reg no : 212223040025
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-
-## Name : BASKAR  J
-## Roll no : 212223040025
-## Date of experiment : 05.03.2024
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -181,9 +179,6 @@ LED OFF
 LED  ON
 
 ![2](https://github.com/baskarsaraswathy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144871005/84f8b32c-27e3-4dca-9c6b-b316fdf114b7)
-
-
- 
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
